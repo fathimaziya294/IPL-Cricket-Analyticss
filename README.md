@@ -1,1 +1,1 @@
-# IPL-Cricket-Analyticss
+# IPL-Cricket-Analytics
